@@ -1,0 +1,169 @@
+0 Don_Juan_1926
+1 Adventures_of Don Juan_1948
+2 Pépé_le Moko_1937
+3 Algiers_1938
+4 All_Quiet on the Western Front_1930
+5 All_Quiet on the Western Front_1979
+6 Assault_on Precinct 13_1976
+7 Assault_on Precinct 13_2005
+8 Little_Mother_1935
+9 Bachelor_Mother_1939
+10 Back_Street_1932
+11 Back_Street_1961
+12 Beau_Geste_1926
+13 Beau_Geste_1939
+14 A_Precocious Girl_1934
+15 Between_Us Girls_1942
+16 Billy_the Kid_1930
+17 Billy_the Kid_1941
+18 The_Blue Bird_1918
+19 The_Blue Bird_1976
+20 Born_Yesterday_1950
+21 Born_Yesterday_1993
+22 L'Emmerdeur_1973
+23 Buddy_Buddy_1981
+24 Bachelor_Mother_1939
+25 Bundle_of Joy_1956
+26 Carrie_1976
+27 Carrie_2013
+28 Carrie_2002
+29 The_Computer Wore Tennis Shoes_1969
+30 The_Computer Wore Tennis Shoes_1995
+31 Dark_Victory_1939
+32 Dark_Victory_1976
+33 Stolen_Hours_1963
+34 The_Dawn Patrol_1930
+35 The_Dawn Patrol_1938
+36 The_Fog_1980
+37 The_Fog_2005
+38 The_Front Page_1931
+39 The_Front Page_1974
+40 Fun_with Dick and Jane_1977
+41 Fun_with Dick and Jane_2005
+42 The_Gambler_1974
+43 The_Gambler_2014
+44 Gaslight_1940
+45 Gaslight_1944
+46 Catherine_the Last_1936
+47 The_Girl Downstairs_1938
+48 Waltzes_from Vienna_1934
+49 The_Great Waltz_1938
+50 Halloween_1978
+51 Halloween_2007
+52 The_Hasty Heart_1949
+53 The_Hasty Heart_1983
+54 High_Noon_1952
+55 High_Noon_2000
+56 The_Philadelphia Story_1940
+57 High_Society_1956
+58 Holiday_1930
+59 Holiday_1938
+60 Irma_la Douce_1963
+61 Irma_la Douce_1972
+62 The_Golem_1920
+63 Le_Golem_1936
+64 Jamaica_Inn_1939
+65 Jamaica_Inn_2014
+66 Jamaica_Inn_1983
+67 Juno_and the Paycock_1930
+68 Juno_and the Paycock_1980
+69 The_Lady Vanishes_1938
+70 The_Lady Vanishes_1979
+71 Lifeboat_1944
+72 Lifepod_1993
+73 The_Lodger_1927
+74 The_Lodger_1932
+75 The_Lodger_1944
+76 Man_in the Attic_1953
+77 The_Lodger_2009
+78 The_Man Who Knew Too Much_1934
+79 The_Man Who Knew Too Much_1956
+80 My_Favorite Wife_1940
+81 Move_Over, Darling_1963
+82 Something's_Got to Give_1962
+83 Mr._Wu_1919
+84 Mr._Wu_1927
+85 My_Man Godfrey_1936
+86 My_Man Godfrey_1957
+87 Pygmalion_1938
+88 My_Fair Lady_1964
+89 Night_Must Fall_1937
+90 Night_Must Fall_1964
+91 Notorious_1946
+92 Notorious_1992
+93 Ocean's_11_1960
+94 Ocean's_Eleven_2001
+95 It_Started with Eve_1941
+96 Oh_Jonathan – oh Jonathan!_1973
+97 Of_Mice and Men_1939
+98 Of_Mice and Men_1992
+99 The_Women_1939
+100 The_Opposite Sex_1956
+101 Holiday_for Henrietta_1952
+102 Paris,_When It Sizzles_1964
+103 Dial_M for Murder_1954
+104 A_Perfect Murder_1998
+105 The_Bishop's Wife_1947
+106 The_Preacher's Wife_1996
+107 The_Prisoner of Zenda_1937
+108 The_Prisoner of Zenda_1979
+109 The_Prisoner of Zenda_1952
+110 Psycho_1960
+111 Psycho_1998
+112 The_Racket_1928
+113 The_Racket_1951
+114 Rear_Window_1954
+115 Rear_Window_1998
+116 Old_Acquaintance_1943
+117 Rich_And Famous_1981
+118 Rio_Bravo_1959
+119 Rio_Lobo_1970
+120 One_Hundred Men and a Girl_1937
+121 Sabine_und die hundert Männer_1960
+122 Sabrina_1954
+123 Sabrina_1995
+124 Saturday's_Children_1929
+125 Maybe_It's Love_1940
+126 Scarface_1932
+127 Scarface_1983
+128 Shadow_of a Doubt_1943
+129 Shadow_of a Doubt_1991
+130 Strange_Homecoming_1974
+131 Solaris_1968
+132 Solaris_2002
+133 Ball_of Fire_1941
+134 A_Song Is Born_1948
+135 Spring_Parade_1934
+136 Spring_Parade_1940
+137 What_Price Hollywood?_1932
+138 A_Star Is Born_2018
+139 A_Star Is Born_1976
+140 A_Star Is Born_1954
+141 A_Star Is Born_1937
+142 Sunset_Boulevard_1950
+143 Sunset_Boulevard_1956
+144 Suspicion_1941
+145 Suspicion_1987
+146 Switching_Channels_1988
+147 His_Girl Friday_1940
+148 In_the Wake of the Bounty_1933
+149 Mutiny_on the Bounty_1962
+150 The_Thing from Another World_1951
+151 The_Thing_1982
+152 The_39 Steps_1935
+153 The_39 Steps_2008
+154 The_Thirty Nine Steps_1978
+155 The_39 Steps_1959
+156 Under_Capricorn_1949
+157 Under_Capricorn_1983
+158 Criss_Cross_1949
+159 The_Underneath_1995
+160 Village_of the Damned_1960
+161 Village_of the Damned_1995
+162 The_More the Merrier_1943
+163 Walk_Don't Run_1966
+164 The_Women_2008
+165 The_Major and the Minor_1942
+166 You're_Never Too Young_1955
+167 The_Shop Around the Corner_1940
+168 Pillow_Talk_1959

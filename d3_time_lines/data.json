@@ -1,0 +1,3279 @@
+{
+  "directors": [
+    {
+      "id": 0,
+      "name": "Alan Crosland"
+    },
+    {
+      "id": 1,
+      "name": "Alfred Hitchcock"
+    },
+    {
+      "id": 2,
+      "name": "Andrew Davis"
+    },
+    {
+      "id": 3,
+      "name": "Andrew Grieve"
+    },
+    {
+      "id": 4,
+      "name": "Anthony Asquith"
+    },
+    {
+      "id": 5,
+      "name": "Anthony Page"
+    },
+    {
+      "id": 6,
+      "name": "B.Nirenburg"
+    },
+    {
+      "id": 7,
+      "name": "Billy Wilder"
+    },
+    {
+      "id": 8,
+      "name": "Bradley Cooper"
+    },
+    {
+      "id": 9,
+      "name": "Brian De Palma"
+    },
+    {
+      "id": 10,
+      "name": "Charles Chauvel"
+    },
+    {
+      "id": 11,
+      "name": "Charles Walters"
+    },
+    {
+      "id": 12,
+      "name": "Christian Nyby"
+    },
+    {
+      "id": 13,
+      "name": "Colin Bucksey"
+    },
+    {
+      "id": 14,
+      "name": "Daniel Petrie"
+    },
+    {
+      "id": 15,
+      "name": "David Carson"
+    },
+    {
+      "id": 16,
+      "name": "David Miller"
+    },
+    {
+      "id": 17,
+      "name": "David Ondaatje"
+    },
+    {
+      "id": 18,
+      "name": "Dean Parisot"
+    },
+    {
+      "id": 19,
+      "name": "Delbert Mann"
+    },
+    {
+      "id": 20,
+      "name": "Diane English"
+    },
+    {
+      "id": 21,
+      "name": "Don Sharp"
+    },
+    {
+      "id": 22,
+      "name": "Edmund Goulding"
+    },
+    {
+      "id": 23,
+      "name": "Edouard Molinaro"
+    },
+    {
+      "id": 24,
+      "name": "Edward H. Griffith"
+    },
+    {
+      "id": 25,
+      "name": "Ernst Lubitsch"
+    },
+    {
+      "id": 26,
+      "name": "Frank R. Pierson"
+    },
+    {
+      "id": 27,
+      "name": "Franz Peter Wirth"
+    },
+    {
+      "id": 28,
+      "name": "Fred Zinnemann"
+    },
+    {
+      "id": 29,
+      "name": "Garson Kanin"
+    },
+    {
+      "id": 30,
+      "name": "Gary Sinise"
+    },
+    {
+      "id": 31,
+      "name": "George Cukor"
+    },
+    {
+      "id": 32,
+      "name": "George Stevens"
+    },
+    {
+      "id": 33,
+      "name": "Gregory La Cava"
+    },
+    {
+      "id": 34,
+      "name": "Gus Van Sant"
+    },
+    {
+      "id": 35,
+      "name": "G\u00e9za von Bolv\u00e1ry"
+    },
+    {
+      "id": 36,
+      "name": "Henry Koster"
+    },
+    {
+      "id": 37,
+      "name": "Herbert Brenon"
+    },
+    {
+      "id": 38,
+      "name": "Howard Hawks"
+    },
+    {
+      "id": 39,
+      "name": "Hugo Fregonese"
+    },
+    {
+      "id": 40,
+      "name": "James Hawes"
+    },
+    {
+      "id": 41,
+      "name": "Jean-Fran\u00e7ois Richet"
+    },
+    {
+      "id": 42,
+      "name": "Jeff Bleckner"
+    },
+    {
+      "id": 43,
+      "name": "John Brahm"
+    },
+    {
+      "id": 44,
+      "name": "John Carpenter"
+    },
+    {
+      "id": 45,
+      "name": "John Cromwell"
+    },
+    {
+      "id": 46,
+      "name": "John M. Stahl"
+    },
+    {
+      "id": 47,
+      "name": "Julien Duvivier"
+    },
+    {
+      "id": 48,
+      "name": "Karel Reisz"
+    },
+    {
+      "id": 49,
+      "name": "Karen Arthur"
+    },
+    {
+      "id": 50,
+      "name": "Kimberly Peirce"
+    },
+    {
+      "id": 51,
+      "name": "King Vidor"
+    },
+    {
+      "id": 52,
+      "name": "Lawrence Gordon Clark"
+    },
+    {
+      "id": 53,
+      "name": "Lee H. Katzin"
+    },
+    {
+      "id": 54,
+      "name": "Leslie Howard"
+    },
+    {
+      "id": 55,
+      "name": "Lewis Milestone"
+    },
+    {
+      "id": 56,
+      "name": "Luis Mandoki"
+    },
+    {
+      "id": 57,
+      "name": "Martin M. Speer"
+    },
+    {
+      "id": 58,
+      "name": "Maurice Elvey"
+    },
+    {
+      "id": 59,
+      "name": "Maurice Tourneur"
+    },
+    {
+      "id": 60,
+      "name": "Max Neufeld"
+    },
+    {
+      "id": 61,
+      "name": "Michael Gordon"
+    },
+    {
+      "id": 62,
+      "name": "Norman Taurog"
+    },
+    {
+      "id": 63,
+      "name": "Paul Paviot"
+    },
+    {
+      "id": 64,
+      "name": "Paul Wegener"
+    },
+    {
+      "id": 65,
+      "name": "Penny Marshall"
+    },
+    {
+      "id": 66,
+      "name": "Peyton Reed"
+    },
+    {
+      "id": 67,
+      "name": "Philippa Lowthorpe"
+    },
+    {
+      "id": 68,
+      "name": "Ralph Thomas"
+    },
+    {
+      "id": 69,
+      "name": "Richard Eichberg"
+    },
+    {
+      "id": 70,
+      "name": "Richard Quine"
+    },
+    {
+      "id": 71,
+      "name": "Richard Thorpe"
+    },
+    {
+      "id": 72,
+      "name": "Rob Zombie"
+    },
+    {
+      "id": 73,
+      "name": "Robert Butler"
+    },
+    {
+      "id": 74,
+      "name": "Robert Siodmak"
+    },
+    {
+      "id": 75,
+      "name": "Rod Hardy"
+    },
+    {
+      "id": 76,
+      "name": "Roger Cheveley"
+    },
+    {
+      "id": 77,
+      "name": "Ron Silver"
+    },
+    {
+      "id": 78,
+      "name": "Rupert Wainwright"
+    },
+    {
+      "id": 79,
+      "name": "Rupert Wyatt"
+    },
+    {
+      "id": 80,
+      "name": "Steven Soderbergh"
+    },
+    {
+      "id": 81,
+      "name": "Sydney Pollack"
+    },
+    {
+      "id": 82,
+      "name": "Tad Danielewski"
+    },
+    {
+      "id": 83,
+      "name": "Ted Kotcheff"
+    },
+    {
+      "id": 84,
+      "name": "Thorold Dickinson"
+    },
+    {
+      "id": 85,
+      "name": "Vincent Sherman"
+    },
+    {
+      "id": 86,
+      "name": "W. S. Van Dyke"
+    },
+    {
+      "id": 87,
+      "name": "Wilhelm Thiele"
+    },
+    {
+      "id": 88,
+      "name": "William A. Wellman"
+    },
+    {
+      "id": 89,
+      "name": "William Nigh"
+    },
+    {
+      "id": 90,
+      "name": "Wolf Rilla"
+    }
+  ],
+  "movies": [
+    {
+      "id": 0,
+      "title": "Don Juan",
+      "year": 1926,
+      "directors": [
+        0
+      ],
+      "original": true
+    },
+    {
+      "id": 1,
+      "title": "Adventures of Don Juan",
+      "year": 1948,
+      "directors": [
+        85
+      ],
+      "original": false
+    },
+    {
+      "id": 2,
+      "title": "P\u00e9p\u00e9 le Moko",
+      "year": 1937,
+      "directors": [
+        47
+      ],
+      "original": true
+    },
+    {
+      "id": 3,
+      "title": "Algiers",
+      "year": 1938,
+      "directors": [
+        45
+      ],
+      "original": false
+    },
+    {
+      "id": 4,
+      "title": "All Quiet on the Western Front",
+      "year": 1930,
+      "directors": [
+        55
+      ],
+      "original": true
+    },
+    {
+      "id": 5,
+      "title": "All Quiet on the Western Front",
+      "year": 1979,
+      "directors": [
+        19
+      ],
+      "original": false
+    },
+    {
+      "id": 6,
+      "title": "Assault on Precinct 13",
+      "year": 1976,
+      "directors": [
+        44
+      ],
+      "original": true
+    },
+    {
+      "id": 7,
+      "title": "Assault on Precinct 13",
+      "year": 2005,
+      "directors": [
+        41
+      ],
+      "original": false
+    },
+    {
+      "id": 8,
+      "title": "Little Mother",
+      "year": 1935,
+      "directors": [
+        36
+      ],
+      "original": true
+    },
+    {
+      "id": 9,
+      "title": "Bachelor Mother",
+      "year": 1939,
+      "directors": [
+        29
+      ],
+      "original": false
+    },
+    {
+      "id": 10,
+      "title": "Back Street",
+      "year": 1932,
+      "directors": [
+        46
+      ],
+      "original": true
+    },
+    {
+      "id": 11,
+      "title": "Back Street",
+      "year": 1961,
+      "directors": [
+        16
+      ],
+      "original": false
+    },
+    {
+      "id": 12,
+      "title": "Beau Geste",
+      "year": 1926,
+      "directors": [
+        37
+      ],
+      "original": true
+    },
+    {
+      "id": 13,
+      "title": "Beau Geste",
+      "year": 1939,
+      "directors": [
+        88
+      ],
+      "original": false
+    },
+    {
+      "id": 14,
+      "title": "A Precocious Girl",
+      "year": 1934,
+      "directors": [
+        60,
+        69
+      ],
+      "original": true
+    },
+    {
+      "id": 15,
+      "title": "Between Us Girls",
+      "year": 1942,
+      "directors": [
+        36
+      ],
+      "original": false
+    },
+    {
+      "id": 16,
+      "title": "Billy the Kid",
+      "year": 1930,
+      "directors": [
+        51
+      ],
+      "original": true
+    },
+    {
+      "id": 17,
+      "title": "Billy the Kid",
+      "year": 1941,
+      "directors": [
+        16
+      ],
+      "original": false
+    },
+    {
+      "id": 18,
+      "title": "The Blue Bird",
+      "year": 1918,
+      "directors": [
+        59
+      ],
+      "original": true
+    },
+    {
+      "id": 19,
+      "title": "The Blue Bird",
+      "year": 1976,
+      "directors": [
+        31
+      ],
+      "original": false
+    },
+    {
+      "id": 20,
+      "title": "Born Yesterday",
+      "year": 1950,
+      "directors": [
+        31
+      ],
+      "original": true
+    },
+    {
+      "id": 21,
+      "title": "Born Yesterday",
+      "year": 1993,
+      "directors": [
+        56
+      ],
+      "original": false
+    },
+    {
+      "id": 22,
+      "title": "L'Emmerdeur",
+      "year": 1973,
+      "directors": [
+        23
+      ],
+      "original": true
+    },
+    {
+      "id": 23,
+      "title": "Buddy Buddy",
+      "year": 1981,
+      "directors": [
+        7
+      ],
+      "original": false
+    },
+    {
+      "id": 24,
+      "title": "Bachelor Mother",
+      "year": 1939,
+      "directors": [
+        29
+      ],
+      "original": true
+    },
+    {
+      "id": 25,
+      "title": "Bundle of Joy",
+      "year": 1956,
+      "directors": [
+        62
+      ],
+      "original": false
+    },
+    {
+      "id": 26,
+      "title": "Carrie",
+      "year": 1976,
+      "directors": [
+        9
+      ],
+      "original": true
+    },
+    {
+      "id": 27,
+      "title": "Carrie",
+      "year": 2013,
+      "directors": [
+        50
+      ],
+      "original": false
+    },
+    {
+      "id": 28,
+      "title": "Carrie",
+      "year": 2002,
+      "directors": [
+        15
+      ],
+      "original": false
+    },
+    {
+      "id": 29,
+      "title": "The Computer Wore Tennis Shoes",
+      "year": 1969,
+      "directors": [
+        73
+      ],
+      "original": true
+    },
+    {
+      "id": 30,
+      "title": "The Computer Wore Tennis Shoes",
+      "year": 1995,
+      "directors": [
+        66
+      ],
+      "original": false
+    },
+    {
+      "id": 31,
+      "title": "Dark Victory",
+      "year": 1939,
+      "directors": [
+        22
+      ],
+      "original": true
+    },
+    {
+      "id": 32,
+      "title": "Dark Victory",
+      "year": 1976,
+      "directors": [
+        73
+      ],
+      "original": false
+    },
+    {
+      "id": 33,
+      "title": "Stolen Hours",
+      "year": 1963,
+      "directors": [
+        14
+      ],
+      "original": false
+    },
+    {
+      "id": 34,
+      "title": "The Dawn Patrol",
+      "year": 1930,
+      "directors": [
+        38
+      ],
+      "original": true
+    },
+    {
+      "id": 35,
+      "title": "The Dawn Patrol",
+      "year": 1938,
+      "directors": [
+        22
+      ],
+      "original": false
+    },
+    {
+      "id": 36,
+      "title": "The Fog",
+      "year": 1980,
+      "directors": [
+        44
+      ],
+      "original": true
+    },
+    {
+      "id": 37,
+      "title": "The Fog",
+      "year": 2005,
+      "directors": [
+        78
+      ],
+      "original": false
+    },
+    {
+      "id": 38,
+      "title": "The Front Page",
+      "year": 1931,
+      "directors": [
+        55
+      ],
+      "original": true
+    },
+    {
+      "id": 39,
+      "title": "The Front Page",
+      "year": 1974,
+      "directors": [
+        7
+      ],
+      "original": false
+    },
+    {
+      "id": 40,
+      "title": "Fun with Dick and Jane",
+      "year": 1977,
+      "directors": [
+        83
+      ],
+      "original": true
+    },
+    {
+      "id": 41,
+      "title": "Fun with Dick and Jane",
+      "year": 2005,
+      "directors": [
+        18
+      ],
+      "original": false
+    },
+    {
+      "id": 42,
+      "title": "The Gambler",
+      "year": 1974,
+      "directors": [
+        48
+      ],
+      "original": true
+    },
+    {
+      "id": 43,
+      "title": "The Gambler",
+      "year": 2014,
+      "directors": [
+        79
+      ],
+      "original": false
+    },
+    {
+      "id": 44,
+      "title": "Gaslight",
+      "year": 1940,
+      "directors": [
+        84
+      ],
+      "original": true
+    },
+    {
+      "id": 45,
+      "title": "Gaslight",
+      "year": 1944,
+      "directors": [
+        31
+      ],
+      "original": false
+    },
+    {
+      "id": 46,
+      "title": "Catherine the Last",
+      "year": 1936,
+      "directors": [
+        36
+      ],
+      "original": true
+    },
+    {
+      "id": 47,
+      "title": "The Girl Downstairs",
+      "year": 1938,
+      "directors": [
+        62
+      ],
+      "original": false
+    },
+    {
+      "id": 48,
+      "title": "Waltzes from Vienna",
+      "year": 1934,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 49,
+      "title": "The Great Waltz",
+      "year": 1938,
+      "directors": [
+        47
+      ],
+      "original": false
+    },
+    {
+      "id": 50,
+      "title": "Halloween",
+      "year": 1978,
+      "directors": [
+        44
+      ],
+      "original": true
+    },
+    {
+      "id": 51,
+      "title": "Halloween",
+      "year": 2007,
+      "directors": [
+        72
+      ],
+      "original": false
+    },
+    {
+      "id": 52,
+      "title": "The Hasty Heart",
+      "year": 1949,
+      "directors": [
+        85
+      ],
+      "original": true
+    },
+    {
+      "id": 53,
+      "title": "The Hasty Heart",
+      "year": 1983,
+      "directors": [
+        57
+      ],
+      "original": false
+    },
+    {
+      "id": 54,
+      "title": "High Noon",
+      "year": 1952,
+      "directors": [
+        28
+      ],
+      "original": true
+    },
+    {
+      "id": 55,
+      "title": "High Noon",
+      "year": 2000,
+      "directors": [
+        75
+      ],
+      "original": false
+    },
+    {
+      "id": 56,
+      "title": "The Philadelphia Story",
+      "year": 1940,
+      "directors": [
+        31
+      ],
+      "original": true
+    },
+    {
+      "id": 57,
+      "title": "High Society",
+      "year": 1956,
+      "directors": [
+        11
+      ],
+      "original": false
+    },
+    {
+      "id": 58,
+      "title": "Holiday",
+      "year": 1930,
+      "directors": [
+        24
+      ],
+      "original": true
+    },
+    {
+      "id": 59,
+      "title": "Holiday",
+      "year": 1938,
+      "directors": [
+        31
+      ],
+      "original": false
+    },
+    {
+      "id": 60,
+      "title": "Irma la Douce",
+      "year": 1963,
+      "directors": [
+        7
+      ],
+      "original": true
+    },
+    {
+      "id": 61,
+      "title": "Irma la Douce",
+      "year": 1972,
+      "directors": [
+        63
+      ],
+      "original": false
+    },
+    {
+      "id": 62,
+      "title": "The Golem",
+      "year": 1920,
+      "directors": [
+        64
+      ],
+      "original": true
+    },
+    {
+      "id": 63,
+      "title": "Le Golem",
+      "year": 1936,
+      "directors": [
+        47
+      ],
+      "original": false
+    },
+    {
+      "id": 64,
+      "title": "Jamaica Inn",
+      "year": 1939,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 65,
+      "title": "Jamaica Inn",
+      "year": 2014,
+      "directors": [
+        67
+      ],
+      "original": false
+    },
+    {
+      "id": 66,
+      "title": "Jamaica Inn",
+      "year": 1983,
+      "directors": [
+        52
+      ],
+      "original": false
+    },
+    {
+      "id": 67,
+      "title": "Juno and the Paycock",
+      "year": 1930,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 68,
+      "title": "Juno and the Paycock",
+      "year": 1980,
+      "directors": [
+        76
+      ],
+      "original": false
+    },
+    {
+      "id": 69,
+      "title": "The Lady Vanishes",
+      "year": 1938,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 70,
+      "title": "The Lady Vanishes",
+      "year": 1979,
+      "directors": [
+        5
+      ],
+      "original": false
+    },
+    {
+      "id": 71,
+      "title": "Lifeboat",
+      "year": 1944,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 72,
+      "title": "Lifepod",
+      "year": 1993,
+      "directors": [
+        77
+      ],
+      "original": false
+    },
+    {
+      "id": 73,
+      "title": "The Lodger",
+      "year": 1927,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 74,
+      "title": "The Lodger",
+      "year": 1932,
+      "directors": [
+        58
+      ],
+      "original": false
+    },
+    {
+      "id": 75,
+      "title": "The Lodger",
+      "year": 1944,
+      "directors": [
+        43
+      ],
+      "original": false
+    },
+    {
+      "id": 76,
+      "title": "Man in the Attic",
+      "year": 1953,
+      "directors": [
+        39
+      ],
+      "original": false
+    },
+    {
+      "id": 77,
+      "title": "The Lodger",
+      "year": 2009,
+      "directors": [
+        17
+      ],
+      "original": false
+    },
+    {
+      "id": 78,
+      "title": "The Man Who Knew Too Much",
+      "year": 1934,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 79,
+      "title": "The Man Who Knew Too Much",
+      "year": 1956,
+      "directors": [
+        1
+      ],
+      "original": false
+    },
+    {
+      "id": 80,
+      "title": "My Favorite Wife",
+      "year": 1940,
+      "directors": [
+        29
+      ],
+      "original": true
+    },
+    {
+      "id": 81,
+      "title": "Move Over, Darling",
+      "year": 1963,
+      "directors": [
+        61
+      ],
+      "original": false
+    },
+    {
+      "id": 82,
+      "title": "Something's Got to Give",
+      "year": 1962,
+      "directors": [
+        31
+      ],
+      "original": false
+    },
+    {
+      "id": 83,
+      "title": "Mr. Wu",
+      "year": 1919,
+      "directors": [
+        58
+      ],
+      "original": true
+    },
+    {
+      "id": 84,
+      "title": "Mr. Wu",
+      "year": 1927,
+      "directors": [
+        89
+      ],
+      "original": false
+    },
+    {
+      "id": 85,
+      "title": "My Man Godfrey",
+      "year": 1936,
+      "directors": [
+        33
+      ],
+      "original": true
+    },
+    {
+      "id": 86,
+      "title": "My Man Godfrey",
+      "year": 1957,
+      "directors": [
+        36
+      ],
+      "original": false
+    },
+    {
+      "id": 87,
+      "title": "Pygmalion",
+      "year": 1938,
+      "directors": [
+        4,
+        54
+      ],
+      "original": true
+    },
+    {
+      "id": 88,
+      "title": "My Fair Lady",
+      "year": 1964,
+      "directors": [
+        31
+      ],
+      "original": false
+    },
+    {
+      "id": 89,
+      "title": "Night Must Fall",
+      "year": 1937,
+      "directors": [
+        71
+      ],
+      "original": true
+    },
+    {
+      "id": 90,
+      "title": "Night Must Fall",
+      "year": 1964,
+      "directors": [
+        48
+      ],
+      "original": false
+    },
+    {
+      "id": 91,
+      "title": "Notorious",
+      "year": 1946,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 92,
+      "title": "Notorious",
+      "year": 1992,
+      "directors": [
+        13
+      ],
+      "original": false
+    },
+    {
+      "id": 93,
+      "title": "Ocean's 11",
+      "year": 1960,
+      "directors": [
+        55
+      ],
+      "original": true
+    },
+    {
+      "id": 94,
+      "title": "Ocean's Eleven",
+      "year": 2001,
+      "directors": [
+        80
+      ],
+      "original": false
+    },
+    {
+      "id": 95,
+      "title": "It Started with Eve",
+      "year": 1941,
+      "directors": [
+        36
+      ],
+      "original": true
+    },
+    {
+      "id": 96,
+      "title": "Oh Jonathan \u2013 oh Jonathan!",
+      "year": 1973,
+      "directors": [
+        27
+      ],
+      "original": false
+    },
+    {
+      "id": 97,
+      "title": "Of Mice and Men",
+      "year": 1939,
+      "directors": [
+        55
+      ],
+      "original": true
+    },
+    {
+      "id": 98,
+      "title": "Of Mice and Men",
+      "year": 1992,
+      "directors": [
+        30
+      ],
+      "original": false
+    },
+    {
+      "id": 99,
+      "title": "The Women",
+      "year": 1939,
+      "directors": [
+        31
+      ],
+      "original": true
+    },
+    {
+      "id": 100,
+      "title": "The Opposite Sex",
+      "year": 1956,
+      "directors": [
+        16
+      ],
+      "original": false
+    },
+    {
+      "id": 101,
+      "title": "Holiday for Henrietta",
+      "year": 1952,
+      "directors": [
+        47
+      ],
+      "original": true
+    },
+    {
+      "id": 102,
+      "title": "Paris, When It Sizzles",
+      "year": 1964,
+      "directors": [
+        70
+      ],
+      "original": false
+    },
+    {
+      "id": 103,
+      "title": "Dial M for Murder",
+      "year": 1954,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 104,
+      "title": "A Perfect Murder",
+      "year": 1998,
+      "directors": [
+        2
+      ],
+      "original": false
+    },
+    {
+      "id": 105,
+      "title": "The Bishop's Wife",
+      "year": 1947,
+      "directors": [
+        36
+      ],
+      "original": true
+    },
+    {
+      "id": 106,
+      "title": "The Preacher's Wife",
+      "year": 1996,
+      "directors": [
+        65
+      ],
+      "original": false
+    },
+    {
+      "id": 107,
+      "title": "The Prisoner of Zenda",
+      "year": 1937,
+      "directors": [
+        45,
+        86
+      ],
+      "original": true
+    },
+    {
+      "id": 108,
+      "title": "The Prisoner of Zenda",
+      "year": 1979,
+      "directors": [
+        70
+      ],
+      "original": false
+    },
+    {
+      "id": 109,
+      "title": "The Prisoner of Zenda",
+      "year": 1952,
+      "directors": [
+        71
+      ],
+      "original": false
+    },
+    {
+      "id": 110,
+      "title": "Psycho",
+      "year": 1960,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 111,
+      "title": "Psycho",
+      "year": 1998,
+      "directors": [
+        34
+      ],
+      "original": false
+    },
+    {
+      "id": 112,
+      "title": "The Racket",
+      "year": 1928,
+      "directors": [
+        55
+      ],
+      "original": true
+    },
+    {
+      "id": 113,
+      "title": "The Racket",
+      "year": 1951,
+      "directors": [
+        45
+      ],
+      "original": false
+    },
+    {
+      "id": 114,
+      "title": "Rear Window",
+      "year": 1954,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 115,
+      "title": "Rear Window",
+      "year": 1998,
+      "directors": [
+        42
+      ],
+      "original": false
+    },
+    {
+      "id": 116,
+      "title": "Old Acquaintance",
+      "year": 1943,
+      "directors": [
+        85
+      ],
+      "original": true
+    },
+    {
+      "id": 117,
+      "title": "Rich And Famous",
+      "year": 1981,
+      "directors": [
+        31
+      ],
+      "original": false
+    },
+    {
+      "id": 118,
+      "title": "Rio Bravo",
+      "year": 1959,
+      "directors": [
+        38
+      ],
+      "original": true
+    },
+    {
+      "id": 119,
+      "title": "Rio Lobo",
+      "year": 1970,
+      "directors": [
+        38
+      ],
+      "original": false
+    },
+    {
+      "id": 120,
+      "title": "One Hundred Men and a Girl",
+      "year": 1937,
+      "directors": [
+        36
+      ],
+      "original": true
+    },
+    {
+      "id": 121,
+      "title": "Sabine und die hundert M\u00e4nner",
+      "year": 1960,
+      "directors": [
+        87
+      ],
+      "original": false
+    },
+    {
+      "id": 122,
+      "title": "Sabrina",
+      "year": 1954,
+      "directors": [
+        7
+      ],
+      "original": true
+    },
+    {
+      "id": 123,
+      "title": "Sabrina",
+      "year": 1995,
+      "directors": [
+        81
+      ],
+      "original": false
+    },
+    {
+      "id": 124,
+      "title": "Saturday's Children",
+      "year": 1929,
+      "directors": [
+        33
+      ],
+      "original": true
+    },
+    {
+      "id": 125,
+      "title": "Maybe It's Love",
+      "year": 1940,
+      "directors": [
+        88
+      ],
+      "original": false
+    },
+    {
+      "id": 126,
+      "title": "Scarface",
+      "year": 1932,
+      "directors": [
+        38
+      ],
+      "original": true
+    },
+    {
+      "id": 127,
+      "title": "Scarface",
+      "year": 1983,
+      "directors": [
+        9
+      ],
+      "original": false
+    },
+    {
+      "id": 128,
+      "title": "Shadow of a Doubt",
+      "year": 1943,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 129,
+      "title": "Shadow of a Doubt",
+      "year": 1991,
+      "directors": [
+        49
+      ],
+      "original": false
+    },
+    {
+      "id": 130,
+      "title": "Strange Homecoming",
+      "year": 1974,
+      "directors": [
+        53
+      ],
+      "original": false
+    },
+    {
+      "id": 131,
+      "title": "Solaris",
+      "year": 1968,
+      "directors": [
+        6
+      ],
+      "original": true
+    },
+    {
+      "id": 132,
+      "title": "Solaris",
+      "year": 2002,
+      "directors": [
+        80
+      ],
+      "original": false
+    },
+    {
+      "id": 133,
+      "title": "Ball of Fire",
+      "year": 1941,
+      "directors": [
+        38
+      ],
+      "original": true
+    },
+    {
+      "id": 134,
+      "title": "A Song Is Born",
+      "year": 1948,
+      "directors": [
+        38
+      ],
+      "original": false
+    },
+    {
+      "id": 135,
+      "title": "Spring Parade",
+      "year": 1934,
+      "directors": [
+        35
+      ],
+      "original": true
+    },
+    {
+      "id": 136,
+      "title": "Spring Parade",
+      "year": 1940,
+      "directors": [
+        36
+      ],
+      "original": false
+    },
+    {
+      "id": 137,
+      "title": "What Price Hollywood?",
+      "year": 1932,
+      "directors": [
+        31
+      ],
+      "original": true
+    },
+    {
+      "id": 138,
+      "title": "A Star Is Born",
+      "year": 2018,
+      "directors": [
+        8
+      ],
+      "original": false
+    },
+    {
+      "id": 139,
+      "title": "A Star Is Born",
+      "year": 1976,
+      "directors": [
+        26
+      ],
+      "original": false
+    },
+    {
+      "id": 140,
+      "title": "A Star Is Born",
+      "year": 1954,
+      "directors": [
+        31
+      ],
+      "original": false
+    },
+    {
+      "id": 141,
+      "title": "A Star Is Born",
+      "year": 1937,
+      "directors": [
+        88
+      ],
+      "original": false
+    },
+    {
+      "id": 142,
+      "title": "Sunset Boulevard",
+      "year": 1950,
+      "directors": [
+        7
+      ],
+      "original": true
+    },
+    {
+      "id": 143,
+      "title": "Sunset Boulevard",
+      "year": 1956,
+      "directors": [
+        82
+      ],
+      "original": false
+    },
+    {
+      "id": 144,
+      "title": "Suspicion",
+      "year": 1941,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 145,
+      "title": "Suspicion",
+      "year": 1987,
+      "directors": [
+        3
+      ],
+      "original": false
+    },
+    {
+      "id": 146,
+      "title": "Switching Channels",
+      "year": 1988,
+      "directors": [
+        83
+      ],
+      "original": false
+    },
+    {
+      "id": 147,
+      "title": "His Girl Friday",
+      "year": 1940,
+      "directors": [
+        38
+      ],
+      "original": false
+    },
+    {
+      "id": 148,
+      "title": "In the Wake of the Bounty",
+      "year": 1933,
+      "directors": [
+        10
+      ],
+      "original": true
+    },
+    {
+      "id": 149,
+      "title": "Mutiny on the Bounty",
+      "year": 1962,
+      "directors": [
+        55
+      ],
+      "original": false
+    },
+    {
+      "id": 150,
+      "title": "The Thing from Another World",
+      "year": 1951,
+      "directors": [
+        12,
+        38
+      ],
+      "original": true
+    },
+    {
+      "id": 151,
+      "title": "The Thing",
+      "year": 1982,
+      "directors": [
+        44
+      ],
+      "original": false
+    },
+    {
+      "id": 152,
+      "title": "The 39 Steps",
+      "year": 1935,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 153,
+      "title": "The 39 Steps",
+      "year": 2008,
+      "directors": [
+        40
+      ],
+      "original": false
+    },
+    {
+      "id": 154,
+      "title": "The Thirty Nine Steps",
+      "year": 1978,
+      "directors": [
+        21
+      ],
+      "original": false
+    },
+    {
+      "id": 155,
+      "title": "The 39 Steps",
+      "year": 1959,
+      "directors": [
+        68
+      ],
+      "original": false
+    },
+    {
+      "id": 156,
+      "title": "Under Capricorn",
+      "year": 1949,
+      "directors": [
+        1
+      ],
+      "original": true
+    },
+    {
+      "id": 157,
+      "title": "Under Capricorn",
+      "year": 1983,
+      "directors": [
+        75
+      ],
+      "original": false
+    },
+    {
+      "id": 158,
+      "title": "Criss Cross",
+      "year": 1949,
+      "directors": [
+        74
+      ],
+      "original": true
+    },
+    {
+      "id": 159,
+      "title": "The Underneath",
+      "year": 1995,
+      "directors": [
+        80
+      ],
+      "original": false
+    },
+    {
+      "id": 160,
+      "title": "Village of the Damned",
+      "year": 1960,
+      "directors": [
+        90
+      ],
+      "original": true
+    },
+    {
+      "id": 161,
+      "title": "Village of the Damned",
+      "year": 1995,
+      "directors": [
+        44
+      ],
+      "original": false
+    },
+    {
+      "id": 162,
+      "title": "The More the Merrier",
+      "year": 1943,
+      "directors": [
+        32
+      ],
+      "original": true
+    },
+    {
+      "id": 163,
+      "title": "Walk Don't Run",
+      "year": 1966,
+      "directors": [
+        11
+      ],
+      "original": false
+    },
+    {
+      "id": 164,
+      "title": "The Women",
+      "year": 2008,
+      "directors": [
+        20
+      ],
+      "original": false
+    },
+    {
+      "id": 165,
+      "title": "The Major and the Minor",
+      "year": 1942,
+      "directors": [
+        7
+      ],
+      "original": true
+    },
+    {
+      "id": 166,
+      "title": "You're Never Too Young",
+      "year": 1955,
+      "directors": [
+        62
+      ],
+      "original": false
+    },
+    {
+      "id": 167,
+      "title": "The Shop Around the Corner",
+      "year": 1940,
+      "directors": [
+        25
+      ],
+      "original": true
+    },
+    {
+      "id": 168,
+      "title": "Pillow Talk",
+      "year": 1959,
+      "directors": [
+        61
+      ],
+      "original": false
+    }
+  ],
+  "links": [
+    {
+      "id_original": {
+        "id": 0,
+        "directors": [
+          0
+        ]
+      },
+      "id_remake": {
+        "id": 1,
+        "directors": [
+          85
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 2,
+        "directors": [
+          47
+        ]
+      },
+      "id_remake": {
+        "id": 3,
+        "directors": [
+          45
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 4,
+        "directors": [
+          55
+        ]
+      },
+      "id_remake": {
+        "id": 5,
+        "directors": [
+          19
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 6,
+        "directors": [
+          44
+        ]
+      },
+      "id_remake": {
+        "id": 7,
+        "directors": [
+          41
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 8,
+        "directors": [
+          36
+        ]
+      },
+      "id_remake": {
+        "id": 9,
+        "directors": [
+          29
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 10,
+        "directors": [
+          46
+        ]
+      },
+      "id_remake": {
+        "id": 11,
+        "directors": [
+          16
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 12,
+        "directors": [
+          37
+        ]
+      },
+      "id_remake": {
+        "id": 13,
+        "directors": [
+          88
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 14,
+        "directors": [
+          60,
+          69
+        ]
+      },
+      "id_remake": {
+        "id": 15,
+        "directors": [
+          36
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 14,
+        "directors": [
+          60,
+          69
+        ]
+      },
+      "id_remake": {
+        "id": 15,
+        "directors": [
+          36
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 16,
+        "directors": [
+          51
+        ]
+      },
+      "id_remake": {
+        "id": 17,
+        "directors": [
+          16
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 18,
+        "directors": [
+          59
+        ]
+      },
+      "id_remake": {
+        "id": 19,
+        "directors": [
+          31
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 20,
+        "directors": [
+          31
+        ]
+      },
+      "id_remake": {
+        "id": 21,
+        "directors": [
+          56
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 22,
+        "directors": [
+          23
+        ]
+      },
+      "id_remake": {
+        "id": 23,
+        "directors": [
+          7
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 24,
+        "directors": [
+          29
+        ]
+      },
+      "id_remake": {
+        "id": 25,
+        "directors": [
+          62
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 26,
+        "directors": [
+          9
+        ]
+      },
+      "id_remake": {
+        "id": 27,
+        "directors": [
+          50
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 26,
+        "directors": [
+          9
+        ]
+      },
+      "id_remake": {
+        "id": 28,
+        "directors": [
+          15
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 29,
+        "directors": [
+          73
+        ]
+      },
+      "id_remake": {
+        "id": 30,
+        "directors": [
+          66
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 31,
+        "directors": [
+          22
+        ]
+      },
+      "id_remake": {
+        "id": 32,
+        "directors": [
+          73
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 31,
+        "directors": [
+          22
+        ]
+      },
+      "id_remake": {
+        "id": 33,
+        "directors": [
+          14
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 34,
+        "directors": [
+          38
+        ]
+      },
+      "id_remake": {
+        "id": 35,
+        "directors": [
+          22
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 36,
+        "directors": [
+          44
+        ]
+      },
+      "id_remake": {
+        "id": 37,
+        "directors": [
+          78
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 38,
+        "directors": [
+          55
+        ]
+      },
+      "id_remake": {
+        "id": 39,
+        "directors": [
+          7
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 40,
+        "directors": [
+          83
+        ]
+      },
+      "id_remake": {
+        "id": 41,
+        "directors": [
+          18
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 42,
+        "directors": [
+          48
+        ]
+      },
+      "id_remake": {
+        "id": 43,
+        "directors": [
+          79
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 44,
+        "directors": [
+          84
+        ]
+      },
+      "id_remake": {
+        "id": 45,
+        "directors": [
+          31
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 46,
+        "directors": [
+          36
+        ]
+      },
+      "id_remake": {
+        "id": 47,
+        "directors": [
+          62
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 48,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 49,
+        "directors": [
+          47
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 50,
+        "directors": [
+          44
+        ]
+      },
+      "id_remake": {
+        "id": 51,
+        "directors": [
+          72
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 52,
+        "directors": [
+          85
+        ]
+      },
+      "id_remake": {
+        "id": 53,
+        "directors": [
+          57
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 54,
+        "directors": [
+          28
+        ]
+      },
+      "id_remake": {
+        "id": 55,
+        "directors": [
+          75
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 56,
+        "directors": [
+          31
+        ]
+      },
+      "id_remake": {
+        "id": 57,
+        "directors": [
+          11
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 58,
+        "directors": [
+          24
+        ]
+      },
+      "id_remake": {
+        "id": 59,
+        "directors": [
+          31
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 60,
+        "directors": [
+          7
+        ]
+      },
+      "id_remake": {
+        "id": 61,
+        "directors": [
+          63
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 62,
+        "directors": [
+          64
+        ]
+      },
+      "id_remake": {
+        "id": 63,
+        "directors": [
+          47
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 64,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 65,
+        "directors": [
+          67
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 64,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 66,
+        "directors": [
+          52
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 67,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 68,
+        "directors": [
+          76
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 69,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 70,
+        "directors": [
+          5
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 71,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 72,
+        "directors": [
+          77
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 73,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 74,
+        "directors": [
+          58
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 73,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 75,
+        "directors": [
+          43
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 73,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 76,
+        "directors": [
+          39
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 73,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 77,
+        "directors": [
+          17
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 78,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 79,
+        "directors": [
+          1
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 80,
+        "directors": [
+          29
+        ]
+      },
+      "id_remake": {
+        "id": 81,
+        "directors": [
+          61
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 80,
+        "directors": [
+          29
+        ]
+      },
+      "id_remake": {
+        "id": 82,
+        "directors": [
+          31
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 83,
+        "directors": [
+          58
+        ]
+      },
+      "id_remake": {
+        "id": 84,
+        "directors": [
+          89
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 85,
+        "directors": [
+          33
+        ]
+      },
+      "id_remake": {
+        "id": 86,
+        "directors": [
+          36
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 87,
+        "directors": [
+          4,
+          54
+        ]
+      },
+      "id_remake": {
+        "id": 88,
+        "directors": [
+          31
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 87,
+        "directors": [
+          4,
+          54
+        ]
+      },
+      "id_remake": {
+        "id": 88,
+        "directors": [
+          31
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 89,
+        "directors": [
+          71
+        ]
+      },
+      "id_remake": {
+        "id": 90,
+        "directors": [
+          48
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 91,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 92,
+        "directors": [
+          13
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 93,
+        "directors": [
+          55
+        ]
+      },
+      "id_remake": {
+        "id": 94,
+        "directors": [
+          80
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 95,
+        "directors": [
+          36
+        ]
+      },
+      "id_remake": {
+        "id": 96,
+        "directors": [
+          27
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 97,
+        "directors": [
+          55
+        ]
+      },
+      "id_remake": {
+        "id": 98,
+        "directors": [
+          30
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 99,
+        "directors": [
+          31
+        ]
+      },
+      "id_remake": {
+        "id": 100,
+        "directors": [
+          16
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 101,
+        "directors": [
+          47
+        ]
+      },
+      "id_remake": {
+        "id": 102,
+        "directors": [
+          70
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 103,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 104,
+        "directors": [
+          2
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 105,
+        "directors": [
+          36
+        ]
+      },
+      "id_remake": {
+        "id": 106,
+        "directors": [
+          65
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 107,
+        "directors": [
+          45,
+          86
+        ]
+      },
+      "id_remake": {
+        "id": 108,
+        "directors": [
+          70
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 107,
+        "directors": [
+          45,
+          86
+        ]
+      },
+      "id_remake": {
+        "id": 108,
+        "directors": [
+          70
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 107,
+        "directors": [
+          45,
+          86
+        ]
+      },
+      "id_remake": {
+        "id": 109,
+        "directors": [
+          71
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 107,
+        "directors": [
+          45,
+          86
+        ]
+      },
+      "id_remake": {
+        "id": 109,
+        "directors": [
+          71
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 110,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 111,
+        "directors": [
+          34
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 112,
+        "directors": [
+          55
+        ]
+      },
+      "id_remake": {
+        "id": 113,
+        "directors": [
+          45
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 114,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 115,
+        "directors": [
+          42
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 116,
+        "directors": [
+          85
+        ]
+      },
+      "id_remake": {
+        "id": 117,
+        "directors": [
+          31
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 118,
+        "directors": [
+          38
+        ]
+      },
+      "id_remake": {
+        "id": 119,
+        "directors": [
+          38
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 120,
+        "directors": [
+          36
+        ]
+      },
+      "id_remake": {
+        "id": 121,
+        "directors": [
+          87
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 122,
+        "directors": [
+          7
+        ]
+      },
+      "id_remake": {
+        "id": 123,
+        "directors": [
+          81
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 124,
+        "directors": [
+          33
+        ]
+      },
+      "id_remake": {
+        "id": 125,
+        "directors": [
+          88
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 126,
+        "directors": [
+          38
+        ]
+      },
+      "id_remake": {
+        "id": 127,
+        "directors": [
+          9
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 128,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 129,
+        "directors": [
+          49
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 128,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 130,
+        "directors": [
+          53
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 131,
+        "directors": [
+          6
+        ]
+      },
+      "id_remake": {
+        "id": 132,
+        "directors": [
+          80
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 133,
+        "directors": [
+          38
+        ]
+      },
+      "id_remake": {
+        "id": 134,
+        "directors": [
+          38
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 135,
+        "directors": [
+          35
+        ]
+      },
+      "id_remake": {
+        "id": 136,
+        "directors": [
+          36
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 137,
+        "directors": [
+          31
+        ]
+      },
+      "id_remake": {
+        "id": 138,
+        "directors": [
+          8
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 137,
+        "directors": [
+          31
+        ]
+      },
+      "id_remake": {
+        "id": 139,
+        "directors": [
+          26
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 137,
+        "directors": [
+          31
+        ]
+      },
+      "id_remake": {
+        "id": 140,
+        "directors": [
+          31
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 137,
+        "directors": [
+          31
+        ]
+      },
+      "id_remake": {
+        "id": 141,
+        "directors": [
+          88
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 142,
+        "directors": [
+          7
+        ]
+      },
+      "id_remake": {
+        "id": 143,
+        "directors": [
+          82
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 144,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 145,
+        "directors": [
+          3
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 38,
+        "directors": [
+          55
+        ]
+      },
+      "id_remake": {
+        "id": 146,
+        "directors": [
+          83
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 38,
+        "directors": [
+          55
+        ]
+      },
+      "id_remake": {
+        "id": 147,
+        "directors": [
+          38
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 148,
+        "directors": [
+          10
+        ]
+      },
+      "id_remake": {
+        "id": 149,
+        "directors": [
+          55
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 150,
+        "directors": [
+          12,
+          38
+        ]
+      },
+      "id_remake": {
+        "id": 151,
+        "directors": [
+          44
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 150,
+        "directors": [
+          12,
+          38
+        ]
+      },
+      "id_remake": {
+        "id": 151,
+        "directors": [
+          44
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 152,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 153,
+        "directors": [
+          40
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 152,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 154,
+        "directors": [
+          21
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 152,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 155,
+        "directors": [
+          68
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 156,
+        "directors": [
+          1
+        ]
+      },
+      "id_remake": {
+        "id": 157,
+        "directors": [
+          75
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 158,
+        "directors": [
+          74
+        ]
+      },
+      "id_remake": {
+        "id": 159,
+        "directors": [
+          80
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 160,
+        "directors": [
+          90
+        ]
+      },
+      "id_remake": {
+        "id": 161,
+        "directors": [
+          44
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 162,
+        "directors": [
+          32
+        ]
+      },
+      "id_remake": {
+        "id": 163,
+        "directors": [
+          11
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 99,
+        "directors": [
+          31
+        ]
+      },
+      "id_remake": {
+        "id": 164,
+        "directors": [
+          20
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 165,
+        "directors": [
+          7
+        ]
+      },
+      "id_remake": {
+        "id": 166,
+        "directors": [
+          62
+        ]
+      }
+    },
+    {
+      "id_original": {
+        "id": 167,
+        "directors": [
+          25
+        ]
+      },
+      "id_remake": {
+        "id": 168,
+        "directors": [
+          61
+        ]
+      }
+    }
+  ]
+}
