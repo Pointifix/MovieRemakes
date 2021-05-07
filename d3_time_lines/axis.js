@@ -59,12 +59,11 @@ function initAxis(margin, width, height, svg, data, sorting) {
 
     let i = 0;
     d3.selectAll("g.tick")
-        .style('stroke-width', x.step() + "px")
+        .style('stroke-width', "1 px")
         .selectAll("line")
             .attr('stroke', function() {
                 i++;
-                if (i % 2) return d3.hsl(0, 0, 0.3);
-                return d3.hsl(0, 0, 0.1);
+                return d3.hsl(0, 0, 0.2);
             })
 
     d3.selectAll("path.domain").remove();

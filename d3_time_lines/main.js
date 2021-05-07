@@ -11,13 +11,21 @@ function init() {
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+    let legend = d3.select("#legend_container")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .style("background-color", d3.hsl(0, 0, 0.1))
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
     d3.json("goodSolutions.json", function (data) {
         let sorting = data[3]["solution"];
 
         d3.json("data.json", function (data) {
             console.log(data);
 
-            sorting = optimizeDirectorSorting(data, sorting);
+            //sorting = optimizeDirectorSorting(data, sorting);
 
             console.log(sorting);
 
@@ -100,6 +108,7 @@ function init() {
 
             const offset = x.step() / 2;
 
+            let legend_index = 0;
             for (let i = 0; i < data["directors"].length; i++) {
                 if (directorColors[i].s !== 0) {
                     let movies = [];
@@ -133,6 +142,22 @@ function init() {
 
                     movies.sort(compare);
 
+                    console.log(movies);
+
+                    legend.append("circle")
+                        .attr("cx", 0)
+                        .attr("cy", legend_index * 25)
+                        .attr("r", 10)
+                        .style("fill", directorColors[i])
+
+                    legend.append("text")
+                        .attr("x", 30)
+                        .attr("y", legend_index * 25)
+                        .text(data["directors"][i]["name"])
+                        .attr("font-family", 'Verdana, sans-serif')
+                        .attr("font-size", "x-small")
+                        .attr("fill", "white");
+
                     svg.append("path")
                         .datum(movies)
                         .attr("fill", "none")
@@ -140,7 +165,7 @@ function init() {
                             return directorColors[i];
                         })
                         .attr("stroke-linejoin", "bevel")
-                        .attr("stroke-width", (x.step() / 1.0) + "px")
+                        .attr("stroke-width", (x.step() / 2.5) + "px")
                         .attr("d", d3.line()
                             .x(function (item) {
                                 if (item["original"]) return x(item["title"]) + marginText.left + offset;
@@ -158,7 +183,8 @@ function init() {
                                 return y(item["year"])
                             })
                         )
-                        .attr("opacity", "0.7")
+
+                    legend_index++;
                 }
             }
 
@@ -241,17 +267,35 @@ function init() {
                     return "url(#img" + i + ")";
                 });
 
-            /*
             svg.selectAll("g.dot")
                 .data(data["movies"])
                 .enter()
                 .append("text")
-                .text(function(item) { return data["directors"][item["directors"][0]]["name"] })
+                .text(function(item) {
+                    if (directorColors[item["directors"][0]].s !== 0) return "";
+
+                    return data["directors"][item["directors"][0]]["name"];
+                })
                 .attr("transform", transformFunction)
                 .attr("x", 20)
                 .attr("font-family", 'Verdana, sans-serif')
                 .attr("font-size", "x-small")
-                .attr("fill", "white");*/
+                .attr("fill", "white");
+
+            svg.selectAll("g.dot")
+                .data(data["movies"].filter(elem => elem["directors"].length === 2))
+                .enter()
+                .append("text")
+                .text(function(item) {
+                    if (directorColors[item["directors"][1]].s !== 0) return "";
+
+                    return data["directors"][item["directors"][1]]["name"];
+                })
+                .attr("transform", transformFunction)
+                .attr("x", 20)
+                .attr("font-family", 'Verdana, sans-serif')
+                .attr("font-size", "x-small")
+                .attr("fill", "white");
         })
     })
 }
