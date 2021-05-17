@@ -108,6 +108,7 @@ function init() {
 
             const offset = x.step() / 2;
 
+            // director color lines
             let legend_index = 0;
             for (let i = 0; i < data["directors"].length; i++) {
                 if (directorColors[i].s !== 0) {

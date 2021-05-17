@@ -20,9 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f352b8fc-5c64-4f76-ac91-f0adc2b931a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../d3_scatter_plot/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d3_scatter_plot/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d3_scatter_plot/js/axes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d3_scatter_plot/js/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d3_scatter_plot/js/covers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d3_scatter_plot/js/graph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d3_scatter_plot/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/axis.js" beforeDir="false" afterPath="$PROJECT_DIR$/axis.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +73,7 @@
       <workItem from="1618565652354" duration="2401000" />
       <workItem from="1620397740691" duration="306000" />
       <workItem from="1620398615990" duration="3459000" />
+      <workItem from="1621248863166" duration="6664000" />
     </task>
     <servers />
   </component>
