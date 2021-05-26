@@ -59,7 +59,7 @@ class Axes {
         container
             .selectAll("text")
             .style("text-anchor", "end")
-            .attr("font-size", "larger")
+            .attr("font-size", Constants.FONT_SIZE)
             .attr("font-family", 'Verdana, sans-serif')
             .attr("font-weight", "bold")
             .attr("fill", "white");

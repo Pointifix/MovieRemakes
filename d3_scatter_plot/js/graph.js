@@ -22,10 +22,9 @@ class Graph {
         d3.select("body")
             .append("svg")
             .attr("id", "GraphContainer")
-            .attr("width", document.body.scrollWidth)
-            .attr("height", Math.round(document.body.scrollWidth * Math.sqrt(2)))
-            .style("background-color", Constants.COLORS.BACKGROUND)
-            .style("margin-bottom", "-4px");
+            .attr("width", "2214")
+            .attr("height", "2718")
+            .style("background-color", Constants.COLORS.BACKGROUND);
 
         this.#container = d3.select("#GraphContainer");
 
@@ -113,20 +112,26 @@ class Graph {
             });
 
         // director labels
+        let directorLabelsDrawn = new Array(directorColors.length);
+
         this.#container.selectAll("g.dot")
             .data(data["movies"])
             .enter()
             .append("text")
             .text(function(item) {
-                if (directorColors[item["directors"][0]].s !== 0) return "";
+                if (directorColors[item["directors"][0]].s !== 0 && directorLabelsDrawn[item["directors"][0]]) return "";
+
+                directorLabelsDrawn[item["directors"][0]] = true;
 
                 return data["directors"][item["directors"][0]]["name"];
             })
             .attr("transform", transformFunction)
-            .attr("x", axes.y.step() * 0.8)
+            .attr("x", -axes.y.step() * 0.8)
             .attr("y", "0.5em")
+            .style("text-anchor", "end")
+            .attr("font-size", Constants.FONT_SIZE)
             .attr("font-family", 'Verdana, sans-serif')
-            .attr("font-size", "x-small")
+            .attr("font-weight", "bold")
             .attr("fill", "white");
 
         this.#container.selectAll("g.dot")
@@ -141,8 +146,10 @@ class Graph {
             .attr("transform", transformFunction)
             .attr("x", axes.y.step() * 0.8)
             .attr("y", "0.5em")
+            .style("text-anchor", "end")
+            .attr("font-size", Constants.FONT_SIZE)
             .attr("font-family", 'Verdana, sans-serif')
-            .attr("font-size", "x-small")
+            .attr("font-weight", "bold")
             .attr("fill", "white");
     }
 

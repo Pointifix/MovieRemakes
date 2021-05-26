@@ -5,6 +5,7 @@ const Constants = Object.freeze({
         BOTTOM: 20,
         LEFT: 20
     },
+    FONT_SIZE: "18px",
     AXES: {
         TICK_PADDING: 6
     },
