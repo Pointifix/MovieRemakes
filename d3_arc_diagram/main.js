@@ -1,8 +1,8 @@
 function init() {
     // set the dimensions and margins of the graph
-    var margin = {top: 20, right: 30, bottom: 20, left: 30},
+    var margin = {top: 50, right: 50, bottom: 50, left: 50},
         width = window.innerWidth - margin.left - margin.right,
-        height = window.innerHeight - margin.top - margin.bottom;
+        height = window.innerHeight - margin.top - margin.bottom + 300;
 
     // append the svg object to the body of the page
     var svg = d3.select("#my_dataviz")

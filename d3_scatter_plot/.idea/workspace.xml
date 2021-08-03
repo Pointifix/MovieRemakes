@@ -20,15 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="feb5a302-b592-4e18-aac4-c08685152a12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../cola_js_group_layout/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cola_js_group_layout/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../d3_arc_diagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../d3_arc_diagram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d3_arc_diagram/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../d3_arc_diagram/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d3_arc_diagram/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../d3_arc_diagram/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/axes.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/axes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/constants.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/graph.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/graph.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../d3_time_lines/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../d3_time_lines/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../handcrafting/raw-inkscape.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../handcrafting/raw.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../handcrafting/raw.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d3_time_lines/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../d3_time_lines/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d3_time_lines/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../d3_time_lines/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d3_time_lines/optimize_director_sorting.js" beforeDir="false" afterPath="$PROJECT_DIR$/../d3_time_lines/optimize_director_sorting.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +82,8 @@
       <workItem from="1620941493238" duration="21658000" />
       <workItem from="1621248815915" duration="14968000" />
       <workItem from="1622055911033" duration="3674000" />
+      <workItem from="1623520359211" duration="4070000" />
+      <workItem from="1624349278686" duration="905000" />
     </task>
     <servers />
   </component>

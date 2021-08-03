@@ -20,13 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f352b8fc-5c64-4f76-ac91-f0adc2b931a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../cola_js_group_layout/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cola_js_group_layout/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cola_js_group_layout/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../d3_scatter_plot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../d3_scatter_plot/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../d3_scatter_plot/js/graph.js" beforeDir="false" afterPath="$PROJECT_DIR$/../d3_scatter_plot/js/graph.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../d3_time_lines/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../d3_time_lines/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d3_time_lines/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../d3_time_lines/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d3_time_lines/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../d3_time_lines/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d3_time_lines/optimize_director_sorting.js" beforeDir="false" afterPath="$PROJECT_DIR$/../d3_time_lines/optimize_director_sorting.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +61,7 @@
       <workItem from="1615581933539" duration="3077000" />
       <workItem from="1615747011011" duration="1259000" />
       <workItem from="1621419622843" duration="639000" />
+      <workItem from="1623523662946" duration="1528000" />
     </task>
     <servers />
   </component>
@@ -76,5 +78,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

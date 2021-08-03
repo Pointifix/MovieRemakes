@@ -9,7 +9,7 @@ function optimizeDirectorSorting(data, sorting = undefined) {
         sorting = d3.shuffle(originalFilmsMapping);
     }
 
-    let iterations = 1;
+    let iterations = 50_000;
     let bestCost = Infinity;
     let bestSorting = sorting;
     for (let i = 0; i < iterations; i++) {
@@ -19,6 +19,9 @@ function optimizeDirectorSorting(data, sorting = undefined) {
         sorting[a] = sorting[a + 1];
         sorting[a + 1] = tmp;
 
+        //let cost = calculateCostNearestNeighbour(data, sorting);
+        //let cost = calculateCostBoundingBox(data, sorting);
+        //let cost = calculateCostLineIntersections(data, sorting);
         let cost = calculateCostCentroid(data, sorting);
 
         if (cost < bestCost) {

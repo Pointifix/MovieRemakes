@@ -49,6 +49,8 @@ class Graph {
             return "translate(" + (axes.x(item["year"]) + axes.maxFilmTextLength) + "," + (axes.y(it["title"]) + axes.y.step() / 2) + ")";
         };
 
+        console.log(data["movies"]);
+
         // draw movie dots for their first director
         this.#container.append('g')
             .selectAll("dot")

@@ -1,5 +1,5 @@
 function init() {
-    let margin = {top: 20, right: 20, bottom: 20, left: 20},
+    let margin = {top: 50, right: 50, bottom: 50, left: 50},
         width = window.innerWidth - margin.left - margin.right,
         height = window.innerHeight - margin.top - margin.bottom;
 
@@ -11,21 +11,15 @@ function init() {
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    let legend = d3.select("#legend_container")
-        .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        .style("background-color", d3.hsl(0, 0, 0.1))
-        .append("g")
-        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
     d3.json("goodSolutions.json", function (data) {
-        let sorting = data[3]["solution"];
+        //let sorting = data[3]["solution"];
 
         d3.json("data.json", function (data) {
             console.log(data);
 
-            //sorting = optimizeDirectorSorting(data, sorting);
+            let sorting = optimizeDirectorSorting(data);//, sorting);
+
+            console.log(sorting.length);
 
             console.log(sorting);
 
@@ -144,20 +138,6 @@ function init() {
                     movies.sort(compare);
 
                     console.log(movies);
-
-                    legend.append("circle")
-                        .attr("cx", 0)
-                        .attr("cy", legend_index * 25)
-                        .attr("r", 10)
-                        .style("fill", directorColors[i])
-
-                    legend.append("text")
-                        .attr("x", 30)
-                        .attr("y", legend_index * 25)
-                        .text(data["directors"][i]["name"])
-                        .attr("font-family", 'Verdana, sans-serif')
-                        .attr("font-size", "x-small")
-                        .attr("fill", "white");
 
                     svg.append("path")
                         .datum(movies)
